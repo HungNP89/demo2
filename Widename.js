@@ -9,7 +9,7 @@
     an index value inside brackets [ ]. Another possibility would
     be to use the charAt() method.
 */
-
+ABC BIN
 process.stdout.write( "\n Please, type in your name: " ) ;
 
 process.stdin.on( "data", function( input_from_user )
